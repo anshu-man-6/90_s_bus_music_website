@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nine0-s-bus-music-website.onrender.com/sitemap.xml
